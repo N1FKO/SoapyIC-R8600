@@ -1,0 +1,6 @@
+.DS_Store
+._*
+build/
+SwiftCore/.build/
+*.swp
+*.swo
